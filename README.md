@@ -19,6 +19,16 @@ The OA-tool computes the obstruction angle of rectangular windows placed on vert
 <br>
 <br>
 
+## Requirements:
+
+- An installed version of ESRI ArcGIS Pro (v. 2.8 or later) with a license allowing the use of the following tools 
+  - Data Management
+  - 3D Analyst
+  - Spatial Analyst
+  - Geoprocessing Tools
+  
+
+
 ## Workflow:
 
 <img src="img/OA_tool_schema.png"></img>
