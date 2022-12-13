@@ -18,6 +18,7 @@ The OA-tool computes the obstruction angle of rectangular windows placed on vert
 
 <br>
 <br>
+
 ## Data flow diagram:
 
 <img src="img/OA_tool_schema.png"></img>
