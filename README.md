@@ -27,6 +27,6 @@ The OA-tool computes the obstruction angle of rectangular windows placed on vert
 <br>
 
 ## License
-GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
+GNU GENERAL PUBLIC LICENSE <br>
+Version 3, 29 June 2007 <br>
 Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org/
