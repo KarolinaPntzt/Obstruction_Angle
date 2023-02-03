@@ -3,6 +3,11 @@ The OA-tool computes the obstruction angle of rectangular windows placed on vert
 <br>
 <br>
 
+## Obstruction Angle definition:
+Obstruction angle is defined as the angle between the horizontal plane and a line connecting, e.g., the center point of a window and the highest point of an obstruction (see figure below).
+<br>
+<br>
+
 <img src="img//OA_metric.png"></img>
 
 <br>
@@ -36,7 +41,7 @@ The OA-tool computes the obstruction angle of rectangular windows placed on vert
 
 ## Workflow:
 
-<img src="img//OA_tool_flowchart.png"></img>
+<img src="img//OA_tool_flowchart.png" width=50%></img>
 
 <br>
 <br>
