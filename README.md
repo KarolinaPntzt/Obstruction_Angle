@@ -8,7 +8,7 @@ Obstruction angle is defined as the angle between the horizontal plane and a lin
 <br>
 <br>
 
-<img src="img//OA_metric.png" width=70%></img>
+<img src="img//OA_metric.png" width=70% align="middle"></img>
 
 <br>
 <br>
