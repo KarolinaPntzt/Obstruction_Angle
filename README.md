@@ -58,7 +58,7 @@ Obstruction angle is defined as the angle between the horizontal plane and a lin
 ## Output:
 The computed obstruction angle for every window is stored in a separate column of the attribute table of the window input dataset. Obstruction angles are stored in degrees.
 
-<p align="center"></p><img src="img//OA_tool_output.png" width=70%></img></p>
+<p align="center"><img src="img//OA_tool_output.png" width=70%></img></p>
 
 <br>
 <br>
