@@ -38,14 +38,14 @@ Obstruction angle is defined as the angle between the horizontal plane and a lin
 
 <br>
 
-- Window input data layer needs to have the following columns:
-  - w_id (ID that uniquely identifies every window of a building) with values like: w1, w2, ..., wn (where n the total number of windows in the building)
-  - b_id (ID that uniquely identifies the building the windows belong to) with a value like: b1. This value must match with the corresponding building ID value in the building footprint layer.
+- **Window** input data layer needs to have the following columns:
+  - **w_id** (ID that uniquely identifies every window of a building) with values like: *w1, w2, ..., wn* , where **n** the total number of windows in the building.
+  - **b_id** (ID that uniquely identifies the building the windows belong to) with a value like: *b1*. This value must match with the corresponding building ID value in the building footprint layer.
 
 <br>
 
-- Building footprint layer must include the following column:
-  - b_id (ID that uniquely identifies every building in the study area) with values like: b1, b2, ..., bn (where n the total number of buildings in the study area)
+- **Building footprint** layer must include the following column:
+  - **b_id** (ID that uniquely identifies every building in the study area) with values like: *b1, b2, ..., bn*, where **n** the total number of buildings in the study area.
   
 <br>
 <br>
