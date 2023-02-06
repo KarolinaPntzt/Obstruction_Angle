@@ -18,7 +18,7 @@ Obstruction angle is defined as the angle between the horizontal plane and a lin
 - Digital Surface Model - DSM covering the entire extent of the study area (Raster layer)
 - Building footprints (2D Feature layer)
 
-
+<br>
 <p align="center"><img src="img//OA_tool_input_data.png" width=70%></img></p>
 
 
