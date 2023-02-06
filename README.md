@@ -18,12 +18,7 @@ Obstruction angle is defined as the angle between the horizontal plane and a lin
 - Digital Surface Model - DSM covering the entire extent of the study area (Raster layer)
 - Building footprints (2D Feature layer)
 
-<br>
-<br>
-
-## Output:
-- The computed obstruction angle for every window is stored in a separate column of the attribute table of the window input dataset. Obstruction angles are stored in degrees.
-
+<p align="center"><img src="img//OA_tool_input_data.png" width=70%></img></p>
 
 <br>
 <br>
@@ -56,6 +51,16 @@ Obstruction angle is defined as the angle between the horizontal plane and a lin
 
 <br>
 <br>
+
+
+## Output:
+- The computed obstruction angle for every window is stored in a separate column of the attribute table of the window input dataset. Obstruction angles are stored in degrees.
+
+<img src="img//OA_tool_output.png"></img>
+
+<br>
+<br>
+
 
 ## License
 Copyright 2022 Karolina Pantazatou <br><br><br>
